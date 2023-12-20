@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/baihaqism/urlshortener/handlers"
+	"github.com/baihaqism/go-urlshortener/handlers"
 	_ "github.com/lib/pq"
 )
 

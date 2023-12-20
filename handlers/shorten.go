@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/baihaqism/urlshortener/models"
-	"github.com/baihaqism/urlshortener/utils"
+	"github.com/baihaqism/go-urlshortener/models"
+	"github.com/baihaqism/go-urlshortener/utils"
 )
 
 // ShortenHandler handles requests to generate short URLs from long URLs.
